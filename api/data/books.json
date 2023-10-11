@@ -1,0 +1,497 @@
+[
+	{
+		"title": "The Great Gatsby",
+		"author": "F. Scott Fitzgerald",
+		"year": 1925
+	},
+	{
+		"title": "To Kill a Mockingbird",
+		"author": "Harper Lee",
+		"year": 1960
+	},
+	{
+		"title": "1984",
+		"author": "George Orwell",
+		"year": 1949
+	},
+	{
+		"title": "Pride and Prejudice",
+		"author": "Jane Austen",
+		"year": 1813
+	},
+	{
+		"title": "The Catcher in the Rye",
+		"author": "J.D. Salinger",
+		"year": 1951
+	},
+	{
+		"title": "Moby-Dick",
+		"author": "Herman Melville",
+		"year": 1851
+	},
+	{
+		"title": "The Lord of the Rings",
+		"author": "J.R.R. Tolkien",
+		"year": 1954
+	},
+	{
+		"title": "War and Peace",
+		"author": "Leo Tolstoy",
+		"year": 1869
+	},
+	{
+		"title": "Crime and Punishment",
+		"author": "Fyodor Dostoevsky",
+		"year": 1866
+	},
+	{
+		"title": "The Hobbit",
+		"author": "J.R.R. Tolkien",
+		"year": 1937
+	},
+	{
+		"title": "Brave New World",
+		"author": "Aldous Huxley",
+		"year": 1932
+	},
+	{
+		"title": "The Odyssey",
+		"author": "Homer",
+		"year": 2001
+	},
+	{
+		"title": "The Brothers Karamazov",
+		"author": "Fyodor Dostoevsky",
+		"year": 1880
+	},
+	{
+		"title": "The Picture of Dorian Gray",
+		"author": "Oscar Wilde",
+		"year": 1890
+	},
+	{
+		"title": "One Hundred Years of Solitude",
+		"author": "Gabriel García Márquez",
+		"year": 1967
+	},
+	{
+		"title": "Anna Karenina",
+		"author": "Leo Tolstoy",
+		"year": 1877
+	},
+	{
+		"title": "The Alchemist",
+		"author": "Paulo Coelho",
+		"year": 1988
+	},
+	{
+		"title": "The Iliad",
+		"author": "Homer",
+		"year": 1788
+	},
+	{
+		"title": "The Count of Monte Cristo",
+		"author": "Alexandre Dumas",
+		"year": 1844
+	},
+	{
+		"title": "The Grapes of Wrath",
+		"author": "John Steinbeck",
+		"year": 1939
+	},
+	{
+		"title": "The Road",
+		"author": "Cormac McCarthy",
+		"year": 2006
+	},
+	{
+		"title": "The Chronicles of Narnia",
+		"author": "C.S. Lewis",
+		"year": 1950
+	},
+	{
+		"title": "Don Quixote",
+		"author": "Miguel de Cervantes",
+		"year": 1605
+	},
+	{
+		"title": "The Shining",
+		"author": "Stephen King",
+		"year": 1977
+	},
+	{
+		"title": "The Great Expectations",
+		"author": "Charles Dickens",
+		"year": 1861
+	},
+	{
+		"title": "The Old Man and the Sea",
+		"author": "Ernest Hemingway",
+		"year": 1952
+	},
+	{
+		"title": "The Hobbit",
+		"author": "J.R.R. Tolkien",
+		"year": 1937
+	},
+	{
+		"title": "The Adventures of Sherlock Holmes",
+		"author": "Arthur Conan Doyle",
+		"year": 1892
+	},
+	{
+		"title": "The Jungle Book",
+		"author": "Rudyard Kipling",
+		"year": 1894
+	},
+	{
+		"title": "The Little Prince",
+		"author": "Antoine de Saint-Exupéry",
+		"year": 1943
+	},
+	{
+		"title": "The War of the Worlds",
+		"author": "H.G. Wells",
+		"year": 1898
+	},
+	{
+		"title": "The Hound of the Baskervilles",
+		"author": "Arthur Conan Doyle",
+		"year": 1902
+	},
+	{
+		"title": "The Road",
+		"author": "Cormac McCarthy",
+		"year": 2006
+	},
+	{
+		"title": "The Da Vinci Code",
+		"author": "Dan Brown",
+		"year": 2003
+	},
+	{
+		"title": "The Book Thief",
+		"author": "Markus Zusak",
+		"year": 2005
+	},
+	{
+		"title": "The Metamorphosis",
+		"author": "Franz Kafka",
+		"year": 1915
+	},
+	{
+		"title": "The Wind in the Willows",
+		"author": "Kenneth Grahame",
+		"year": 1908
+	},
+	{
+		"title": "The Odyssey",
+		"author": "Homer",
+		"year": 1998
+	},
+	{
+		"title": "The Aeneid",
+		"author": "Virgil",
+		"year": 2009
+	},
+	{
+		"title": "The Road",
+		"author": "Cormac McCarthy",
+		"year": 2006
+	},
+	{
+		"title": "The Da Vinci Code",
+		"author": "Dan Brown",
+		"year": 2003
+	},
+	{
+		"title": "The Book Thief",
+		"author": "Markus Zusak",
+		"year": 2005
+	},
+	{
+		"title": "The Metamorphosis",
+		"author": "Franz Kafka",
+		"year": 1915
+	},
+	{
+		"title": "The Wind in the Willows",
+		"author": "Kenneth Grahame",
+		"year": 1908
+	},
+	{
+		"title": "The Call of the Wild",
+		"author": "Jack London",
+		"year": 1903
+	},
+	{
+		"title": "The Sun Also Rises",
+		"author": "Ernest Hemingway",
+		"year": 1926
+	},
+	{
+		"title": "The Secret Garden",
+		"author": "Frances Hodgson Burnett",
+		"year": 1911
+	},
+	{
+		"title": "The Three Musketeers",
+		"author": "Alexandre Dumas",
+		"year": 1844
+	},
+	{
+		"title": "The Giver",
+		"author": "Lois Lowry",
+		"year": 1993
+	},
+	{
+		"title": "The Fault in Our Stars",
+		"author": "John Green",
+		"year": 2012
+	},
+	{
+		"title": "The Hunger Games",
+		"author": "Suzanne Collins",
+		"year": 2008
+	},
+	{
+		"title": "The Road",
+		"author": "Cormac McCarthy",
+		"year": 2006
+	},
+	{
+		"title": "The Da Vinci Code",
+		"author": "Dan Brown",
+		"year": 2003
+	},
+	{
+		"title": "The Book Thief",
+		"author": "Markus Zusak",
+		"year": 2005
+	},
+	{
+		"title": "The Metamorphosis",
+		"author": "Franz Kafka",
+		"year": 1915
+	},
+	{
+		"title": "The Wind in the Willows",
+		"author": "Kenneth Grahame",
+		"year": 1908
+	},
+	{
+		"title": "The Call of the Wild",
+		"author": "Jack London",
+		"year": 1903
+	},
+	{
+		"title": "The Sun Also Rises",
+		"author": "Ernest Hemingway",
+		"year": 1926
+	},
+	{
+		"title": "The Secret Garden",
+		"author": "Frances Hodgson Burnett",
+		"year": 1911
+	},
+	{
+		"title": "The Three Musketeers",
+		"author": "Alexandre Dumas",
+		"year": 1844
+	},
+	{
+		"title": "The Giver",
+		"author": "Lois Lowry",
+		"year": 1993
+	},
+	{
+		"title": "The Fault in Our Stars",
+		"author": "John Green",
+		"year": 2012
+	},
+	{
+		"title": "The Hunger Games",
+		"author": "Suzanne Collins",
+		"year": 2008
+	},
+	{
+		"title": "The Road",
+		"author": "Cormac McCarthy",
+		"year": 2006
+	},
+	{
+		"title": "The Da Vinci Code",
+		"author": "Dan Brown",
+		"year": 2003
+	},
+	{
+		"title": "The Book Thief",
+		"author": "Markus Zusak",
+		"year": 2005
+	},
+	{
+		"title": "The Metamorphosis",
+		"author": "Franz Kafka",
+		"year": 1915
+	},
+	{
+		"title": "The Wind in the Willows",
+		"author": "Kenneth Grahame",
+		"year": 1908
+	},
+	{
+		"title": "The Call of the Wild",
+		"author": "Jack London",
+		"year": 1903
+	},
+	{
+		"title": "The Sun Also Rises",
+		"author": "Ernest Hemingway",
+		"year": 1926
+	},
+	{
+		"title": "The Secret Garden",
+		"author": "Frances Hodgson Burnett",
+		"year": 1911
+	},
+	{
+		"title": "The Three Musketeers",
+		"author": "Alexandre Dumas",
+		"year": 1844
+	},
+	{
+		"title": "The Giver",
+		"author": "Lois Lowry",
+		"year": 1993
+	},
+	{
+		"title": "The Fault in Our Stars",
+		"author": "John Green",
+		"year": 2012
+	},
+	{
+		"title": "The Hunger Games",
+		"author": "Suzanne Collins",
+		"year": 2008
+	},
+	{
+		"title": "The Road",
+		"author": "Cormac McCarthy",
+		"year": 2006
+	},
+	{
+		"title": "The Da Vinci Code",
+		"author": "Dan Brown",
+		"year": 2003
+	},
+	{
+		"title": "The Book Thief",
+		"author": "Markus Zusak",
+		"year": 2005
+	},
+	{
+		"title": "The Metamorphosis",
+		"author": "Franz Kafka",
+		"year": 1915
+	},
+	{
+		"title": "The Wind in the Willows",
+		"author": "Kenneth Grahame",
+		"year": 1908
+	},
+	{
+		"title": "The Call of the Wild",
+		"author": "Jack London",
+		"year": 1903
+	},
+	{
+		"title": "The Sun Also Rises",
+		"author": "Ernest Hemingway",
+		"year": 1926
+	},
+	{
+		"title": "The Secret Garden",
+		"author": "Frances Hodgson Burnett",
+		"year": 1911
+	},
+	{
+		"title": "The Three Musketeers",
+		"author": "Alexandre Dumas",
+		"year": 1844
+	},
+	{
+		"title": "The Giver",
+		"author": "Lois Lowry",
+		"year": 1993
+	},
+	{
+		"title": "The Fault in Our Stars",
+		"author": "John Green",
+		"year": 2012
+	},
+	{
+		"title": "The Hunger Games",
+		"author": "Suzanne Collins",
+		"year": 2008
+	},
+	{
+		"title": "The Road",
+		"author": "Cormac McCarthy",
+		"year": 2006
+	},
+	{
+		"title": "The Da Vinci Code",
+		"author": "Dan Brown",
+		"year": 2003
+	},
+	{
+		"title": "The Book Thief",
+		"author": "Markus Zusak",
+		"year": 2005
+	},
+	{
+		"title": "The Metamorphosis",
+		"author": "Franz Kafka",
+		"year": 1915
+	},
+	{
+		"title": "The Wind in the Willows",
+		"author": "Kenneth Grahame",
+		"year": 1908
+	},
+	{
+		"title": "The Call of the Wild",
+		"author": "Jack London",
+		"year": 1903
+	},
+	{
+		"title": "The Sun Also Rises",
+		"author": "Ernest Hemingway",
+		"year": 1926
+	},
+	{
+		"title": "The Secret Garden",
+		"author": "Frances Hodgson Burnett",
+		"year": 1911
+	},
+	{
+		"title": "The Three Musketeers",
+		"author": "Alexandre Dumas",
+		"year": 1844
+	},
+	{
+		"title": "The Giver",
+		"author": "Lois Lowry",
+		"year": 1993
+	},
+	{
+		"title": "The Fault in Our Stars",
+		"author": "John Green",
+		"year": 2012
+	},
+	{
+		"title": "The Hunger Games",
+		"author": "Suzanne Collins",
+		"year": 2008
+	}
+]
