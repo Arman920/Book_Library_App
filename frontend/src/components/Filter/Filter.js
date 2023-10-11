@@ -7,7 +7,7 @@ import {
   selectAuthorFilter,
   setAuthorFilter,
   selectOnlyFavoriteFilter
-} from '../../redux/slices/filterSlices'
+} from '../../redux/slices/filterSlice'
 
 import './Filter.css'
 
