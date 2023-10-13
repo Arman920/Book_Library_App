@@ -55,7 +55,7 @@ const BookList = () => {
         <p>No books availble</p>
       ) : (
         <ul>
-          <div className='book-delete'><button onClick={handleDeleteAllBook}>Delete all books</button></div>
+          <div className='book-deleteAll'><button onClick={handleDeleteAllBook}>Delete all books</button></div>
 
           {filtredBooks.map((book, i) => (
             <li key={book.id}>
