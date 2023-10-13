@@ -59,3 +59,7 @@
 	transition: color 0.3s ease;
 	color: #986610;
 }
+
+.book-list .book-delete {
+	margin: 10px;
+}

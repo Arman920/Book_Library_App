@@ -28,6 +28,9 @@ const booksSlice = createSlice({
           book.isFavorite = !book.isFavorite
         }
       })
+    },
+    deleteAllBooks: (state) => {
+      return []
     }
   },
   extraReducers: (builder) => {
@@ -39,7 +42,7 @@ const booksSlice = createSlice({
   }
 })
 
-export const { addBook, deleteBook, toggleFavorite } = booksSlice.actions
+export const { addBook, deleteBook, toggleFavorite, deleteAllBooks } = booksSlice.actions
 
 export const selectBooks = (state) => state.books
 
